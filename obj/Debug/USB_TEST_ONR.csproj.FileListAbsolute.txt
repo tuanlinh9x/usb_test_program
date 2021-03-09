@@ -1,0 +1,10 @@
+C:\Users\tuanl\Documents\Visual Studio 2019\Projects\USB_TEST_ONR\bin\Debug\USB_TEST_ONR.exe.config
+C:\Users\tuanl\Documents\Visual Studio 2019\Projects\USB_TEST_ONR\bin\Debug\USB_TEST_ONR.exe
+C:\Users\tuanl\Documents\Visual Studio 2019\Projects\USB_TEST_ONR\bin\Debug\USB_TEST_ONR.pdb
+C:\Users\tuanl\Documents\Visual Studio 2019\Projects\USB_TEST_ONR\obj\Debug\USB_TEST_ONR.csprojAssemblyReference.cache
+C:\Users\tuanl\Documents\Visual Studio 2019\Projects\USB_TEST_ONR\obj\Debug\USB_TEST_ONR.Form1.resources
+C:\Users\tuanl\Documents\Visual Studio 2019\Projects\USB_TEST_ONR\obj\Debug\USB_TEST_ONR.Properties.Resources.resources
+C:\Users\tuanl\Documents\Visual Studio 2019\Projects\USB_TEST_ONR\obj\Debug\USB_TEST_ONR.csproj.GenerateResource.cache
+C:\Users\tuanl\Documents\Visual Studio 2019\Projects\USB_TEST_ONR\obj\Debug\USB_TEST_ONR.csproj.CoreCompileInputs.cache
+C:\Users\tuanl\Documents\Visual Studio 2019\Projects\USB_TEST_ONR\obj\Debug\USB_TEST_ONR.exe
+C:\Users\tuanl\Documents\Visual Studio 2019\Projects\USB_TEST_ONR\obj\Debug\USB_TEST_ONR.pdb
